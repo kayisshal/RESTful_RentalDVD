@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![picture alt]("Title")
+![picture alt](https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin/tree/main/images/screenshot.png "Title")
 
 Tugas pembuatan RESTful API ini menggunakan Node JS sebagai Back-End dan Vue JS sebagai Front-End yang telah ditugaskan pada mata kuliah Pengembangan Web kelas D4-3B di Jurusan Teknik Informatika POLBAN
 
@@ -128,9 +128,9 @@ Berikut beberapa dependencies nodejs yang dibutuhkan untuk menjalankan program
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-![picture alt](https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin/images/localhost_8081_add-actor.png "Title")
-![picture alt](https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin/images/localhost_8081_.png "Title")
-![picture alt](https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin/images/localhost_8081_(1) "Title")
+![picture alt](https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin/tree/main/images/localhost_8081_add-actor.png "Title")
+![picture alt](https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin/tree/main/images/localhost_8081_.png "Title")
+![picture alt](https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin/tree/main/images/localhost_8081_(1) "Title")
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
