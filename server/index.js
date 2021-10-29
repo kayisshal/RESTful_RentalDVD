@@ -9,6 +9,20 @@ app.get("/", async (req, res, next) => {
     res.send("Welcome to RESTful API Application.")
 });
 
+// route get
+
+app.get("/api/actor", async (req, res, next) => {
+	try{
+		let sql = `SELECT * FROM actor`
+		let result = (await db.query(sql)).rows
+		res.send(result)
+	}
+	catch(error){
+		console.error(error)
+		next(error)
+	}
+});
+
 // set port, listen for requests
 
 app.listen(PORT, async() => {
