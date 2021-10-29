@@ -5,11 +5,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://i.pinimg.com/736x/4f/2f/5d/4f2f5deff4e77451831a9df1f9622e93.jpg">
-    <img src="https://i.pinimg.com/736x/4f/2f/5d/4f2f5deff4e77451831a9df1f9622e93.jpg" alt="Logo" width="80" height="80">
+  <a href="https://www.drupal.org/files/project-images/rain-drop-hi.png">
+    <img src="https://www.drupal.org/files/project-images/rain-drop-hi.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Stopwatch Kel 7</h3>
+  <h3 align="center">RESTful API</h3>
 </div>
 
 
@@ -67,7 +67,7 @@ Pembuatan program ini menggunakan teknologi sebagai berikut:
 * [Vue.js](https://vuejs.org/)
 * [Node.js](https://nodejs.org/en/about/)
 * [Vuetify](https://vuetifyjs.com/en/)
-* [PostgreSQL](https://vuetifyjs.com/en/)
+* [PostgreSQL](https://www.postgresql.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -100,7 +100,7 @@ Berikut beberapa dependencies nodejs yang dibutuhkan untuk menjalankan program
    ```sh
    git clone https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin
    ```
-2. Create .env file
+2. Create .env file inside server folde
     ```sh
       DB_HOST= {your host }
       DB_USER= {your db user }
@@ -128,7 +128,9 @@ Berikut beberapa dependencies nodejs yang dibutuhkan untuk menjalankan program
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
+![picture alt](https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin/images/localhost_8081_add-actor.png "Title")
+![picture alt](https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin/images/localhost_8081_.png "Title")
+![picture alt](https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin/images/localhost_8081_(1) "Title")
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
