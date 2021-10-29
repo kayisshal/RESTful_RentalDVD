@@ -60,7 +60,7 @@ export default {
         drawer: false,
         items: [
           { title: 'List Actor', icon: 'mdi-format-list-bulleted-square', route: '/' },
-          { title: 'New Actor', icon: 'mdi-account-plus', route: '/actor'},
+          { title: 'New Actor', icon: 'mdi-account-plus', route: '/add-actor'},
         ],
       }
     },
