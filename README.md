@@ -127,6 +127,10 @@ Berikut beberapa dependencies nodejs yang dibutuhkan untuk menjalankan program
       npm install
       npm run serve
     ```
+4. Because the server use PORT : 8080, the client will use PORT : 8081. Open in browser :
+     ```sh
+     http://localhost:8081/
+    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -134,9 +138,7 @@ Berikut beberapa dependencies nodejs yang dibutuhkan untuk menjalankan program
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-![picture alt](https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin/images/localhost_8081_add-actor.png "Title")
-![picture alt](https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin/images/localhost_8081_.png "Title")
-![picture alt](https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin/images/localhost_8081_(1) "Title")
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
