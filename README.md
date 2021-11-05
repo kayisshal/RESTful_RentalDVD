@@ -100,14 +100,21 @@ Berikut beberapa dependencies nodejs yang dibutuhkan untuk menjalankan program
    ```sh
    git clone https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin
    ```
-2. Create .env file inside server folde
+2. Create .env file inside server folder
     ```sh
       DB_HOST= {your host }
       DB_USER= {your db user }
       DB_PASSWORD= {your db password }
       DB_DATABASE= {your db database }
       PORT= {your host port }
-      DATABASE_PORT= { your db port }
+    ```
+    Example :
+     ```sh
+      DB_HOST=localhost
+      DB_USER=postgres
+      DB_PASSWORD=admin
+      DB_DATABASE=dvdrental
+      PORT=5432
     ```
 3. 
 4. Open two terminals to the project folder, then:
