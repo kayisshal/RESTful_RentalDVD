@@ -122,6 +122,7 @@ Berikut beberapa dependencies nodejs yang dibutuhkan untuk menjalankan program
       npm install
       nodemon index.js
     ```
+    wait until it says done or complete. Then:
     ```sh
       cd client
       npm install
