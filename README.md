@@ -192,7 +192,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 Kayis Shalahuddin - kayis.shalahuddin.tif419@polban.ac.id
 
-Project Link: [https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin](https://github.com/kayisshal/191524047_3B_Kayis-Shalahuddin)
+Project Link: [https://github.com/kayisshal/RESTful_RentalDVD](https://github.com/kayisshal/RESTful_RentalDVD)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
